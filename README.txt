@@ -1,7 +1,4 @@
 THEME: Green - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
-
 
 CREDITS:
 
